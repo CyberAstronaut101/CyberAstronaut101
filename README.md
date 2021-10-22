@@ -35,7 +35,7 @@
   </a> -->
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ejmason101&show_icons=true&theme=react">
+ <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ejmason101&show_icons=true&theme=react&hide_rank=true">
  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejmason101&layout=compact&theme=react">
 </a>
     
