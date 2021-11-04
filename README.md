@@ -41,23 +41,20 @@
  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=CyberAstronaut101&show_icons=true&theme=react&hide_rank=true">
  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberAstronaut101&layout=compact&theme=react">
 </a>
-    
+   
+<div align='center'>
+   <a>
+      <img align="center" src="https://www.hackthebox.eu/badge/image/427509" />
+   </a>
+</div>
 
-
-<p align='center'>
-</p>
-
-<!-- [![https://hackthebox.eu/profile/427509](https://www.hackthebox.eu/badge/image/427509)](https://app.hackthebox.eu/profile/427509) -->
-
-
-
-
-
-<p align='center'>
+<div align='center'>
    <a href="https://wigle.net">
       <img border="0" src="https://wigle.net/bi/rAj6YRy6shHUNqNoon+_pw.png">
    </a> 
-</p>
+</div>
+
+
 
 
 <!-- 
