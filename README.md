@@ -43,13 +43,16 @@
 </a>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   13 hrs 9 mins   ████████████░░░░░░░░░░░░░   47.74 % 
-TypeScript   5 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 % 
-HTML         4 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JSON         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Python       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript    8 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.93 %
+JavaScript    7 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+HTML          5 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+JSON          1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Python        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+CSS           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
+
 <!--END_SECTION:waka-->
    
 <div align='center'>
