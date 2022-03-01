@@ -37,12 +37,13 @@
 &layout=compact&theme=react" />
   </a> -->
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=CyberAstronaut101&show_icons=true&theme=react&hide_rank=true">
  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberAstronaut101&layout=compact&theme=react">
 </a>
 
-<h5>Language activity over the last week</h5>
+<h3>Language activity over the last week</h3>
 <!--START_SECTION:waka-->
 
 ```text
