@@ -13,9 +13,6 @@
   <a href="https://masoncomputers.com">
      <img src="https://img.shields.io/static/v1?label=&message=Mason Computers&color=blue&style=for-the-badge" />
   </a>&nbsp;&nbsp;
-  <a href="https://etherscan.io/address/0xc76BaF6Ade02ACe2a489fAB56eD9dC4AA570B2Cc">
-    <img src="https://img.shields.io/badge/0x76B...0B2Cc-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  </a>
 </p>
 
 <!-- Row of dynamic badges -->
