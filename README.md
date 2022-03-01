@@ -42,6 +42,7 @@
  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberAstronaut101&layout=compact&theme=react">
 </a>
 
+<h5>Language activity over the last week</h5>
 <!--START_SECTION:waka-->
 
 ```text
