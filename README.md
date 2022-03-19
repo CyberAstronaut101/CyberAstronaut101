@@ -76,4 +76,5 @@ JavaScript   1 min           ▒░░░░░░░░░░░░░░░░
 -->
 <p align='center'>
   <img align="center" src="https://komarev.com/ghpvc/?username=CyberAstronaut101" alt="My Profile Visit Count" />
+   [![wakatime](https://wakatime.com/badge/user/cbbd31ff-6576-4de5-a4db-8bee77ea2eb4.svg)](https://wakatime.com/@cbbd31ff-6576-4de5-a4db-8bee77ea2eb4)
 </p>
