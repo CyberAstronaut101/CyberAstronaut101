@@ -44,12 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.06 %
-Docker       25 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Text         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-YAML         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
