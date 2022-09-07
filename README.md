@@ -44,7 +44,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HCL     43 mins         ██████████████████████░░░   87.46 %
+Other   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
 ```
 
 <!--END_SECTION:waka-->
