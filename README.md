@@ -44,9 +44,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-HCL          3 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Markdown     2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-Other        1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Markdown     1 hr 39 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+Other        1 hr 31 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
 ```
 
 <!--END_SECTION:waka-->
