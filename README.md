@@ -44,7 +44,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   36.40 %
+YAML         23 mins         █████████████████▓░░░░░░░   70.38 %
+Git Config   6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 ```
 
 <!--END_SECTION:waka-->
