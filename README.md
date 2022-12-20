@@ -44,11 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   49 mins         █████████████░░░░░░░░░░░░   51.61 %
-Python       41 mins         ███████████░░░░░░░░░░░░░░   43.79 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-SCSS         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
