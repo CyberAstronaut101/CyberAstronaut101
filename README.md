@@ -44,7 +44,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     1 hr 2 mins     █████████████▓░░░░░░░░░░░   54.34 %
+Docker       34 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+Other        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
