@@ -52,7 +52,7 @@ Docker       0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-* Since I cant use wakatime for work, these numbers are lower and only represent my personal project work :)
+** Since I cant use wakatime for work, these numbers are lower and only represent my personal project work :) **
    
 <div align='center'>
    <a>
