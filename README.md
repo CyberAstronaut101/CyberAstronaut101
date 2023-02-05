@@ -44,11 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML          13 mins         ██████████████▒░░░░░░░░░░   57.11 %
-HTML         4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-Bash         3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
