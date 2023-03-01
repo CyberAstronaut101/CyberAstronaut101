@@ -44,8 +44,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML     9 mins          █████████████████████████   99.92 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   1 hr 44 mins    ██████████████████░░░░░░░   71.89 %
+Other        29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 ```
 
 <!--END_SECTION:waka-->
