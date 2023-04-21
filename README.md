@@ -2,9 +2,6 @@
    Hi there, I'm Elliot 👨‍💻
 </h1>
 
-<h5 align='center'>
-  I am currently working on OSCP prep and learning about Solidity Smart Contracts
-</h5>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/emason101/">
