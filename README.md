@@ -40,12 +40,12 @@
 <h3>Language activity over the last week</h3>
 <!--START_SECTION:waka-->
 
-```text
-Python       3 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.17 %
-HTML         1 hr 22 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-TypeScript   1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```txt
+HTML         1 hr 22 mins    ████████████▒░░░░░░░░░░░░   49.79 %
+TypeScript   1 hr 5 mins     ██████████░░░░░░░░░░░░░░░   39.49 %
+Python       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
